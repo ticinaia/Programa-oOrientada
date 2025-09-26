@@ -1,5 +1,6 @@
 # Programa-oOrientada
 Professora Samara Souza, BCC, 2ºSEMESTRE
+Leticia Monteiro Alves da Silva - 04186058.
 Slide: Classes e Objetos. (1)
 ProejtoLivraria.java, cliente.java e Livro.java se referem ao primeiro e segundo exercicio do slide 1
 Aluno.java e Escola.java se referem ao terceiro exercicio do slide 1
