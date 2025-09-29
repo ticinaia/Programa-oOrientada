@@ -1,8 +1,0 @@
-public class Main {
-    public static void main(String[] args) {
-        Fornecedor Um = new Fornecedor("Fernando","Tenone", "91998088048", 500, 1623);
-        Um.exibirInfo();
-        Um.obterSaldo();
-    }
-    
-}
