@@ -1,0 +1,2 @@
+//Qual a vantagem de programar um método estático?
+//Não precisa instanciar ele para usar, ele economiza na memória e torna o acesso mais rápido porque os métodos estaticos pertencem a classe e não a um objeto
