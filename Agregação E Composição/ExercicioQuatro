@@ -1,0 +1,2 @@
+//Pesquise e cite mais dois métodos que fazem parte da classe Object.
+//além de toString(), equals() e hashCode(), tem-se o clone() que cria uma cópia do objeto, e o finalize() → chamado pelo garbage collector antes de o objeto ser destruído.
