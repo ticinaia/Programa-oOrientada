@@ -1,0 +1,3 @@
+//Agregação - o objeto pode existir sem o outro, como exemplo temos uma Escola que tem vários Professores, mas o professor pode existir fora da escola
+E um time que tem vários jogadores mas os jogadores podem mudar daquele time principal e irem para outro.
+//Composição - não existe sem o outro como por exemplo um Carro e um Motor, e uma Casa e Comôdos, em ambas as situações não existe conceito de carro sem motor e não existe casa sem cômodo.
