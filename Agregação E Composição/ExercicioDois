@@ -1,0 +1,2 @@
+//O que acontece se uma classe for programada como final? E se um atributo for “setado” como final?
+//Se uma classe for definida como final ela não pode ser herdada e se um atributo for atribuido como final ele não pode ser modificado depois de inicializado
