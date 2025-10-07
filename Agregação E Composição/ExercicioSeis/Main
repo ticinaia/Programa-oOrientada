@@ -1,0 +1,15 @@
+public class Main {
+    public static void main(String[] args) {
+
+        Professor prof1 = new Professor("Mariana");
+
+
+        Turma turma1 = new Turma("INF-101");
+
+        turma1.setProfessor(prof1);
+        turma1.resumo(); 
+        Professor prof2 = new Professor("Carlos");
+        turma1.setProfessor(prof2);
+        turma1.resumo(); 
+    }
+}
