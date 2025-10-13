@@ -1,0 +1,10 @@
+public class Main {
+    public static void main(String[] args) {
+        Funcionário dev = new Desenvolvedor(3000.0);
+        Funcionário suporte = new Suporte(2500.0);
+
+        System.out.println("Folha de Pagamento");
+        System.out.println("Desenvolvedor - Salário Final: R$ " + dev.calcularSalarioFinal());
+        System.out.println("Suporte       - Salário Final: R$ " + suporte.calcularSalarioFinal());
+    }
+}
