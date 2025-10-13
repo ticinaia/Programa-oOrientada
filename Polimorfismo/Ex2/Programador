@@ -1,0 +1,13 @@
+public class Programador extends Funcionario{
+    public Programador (String nome, String cpf){
+        super(nome, cpf);
+
+    }
+    @Override
+    public float calcularSalario(){
+        float adicional = getSalarioBase() * 0.20f;
+        return getSalarioBase() + adicional;
+    }
+
+    
+}
