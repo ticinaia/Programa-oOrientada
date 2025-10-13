@@ -1,0 +1,9 @@
+public class Main {
+    public static void main(String[] args) {
+        Calculadora calculo = new Calculadora();
+
+        System.out.println("Soma de 2 inteiros: " + calculo.somar(5, 3));
+        System.out.println("Soma de 3 inteiros: " + calculo.somar(1, 2, 3));
+        System.out.println("Soma de 2 doubles: " + calculo.somar(4.5, 3.2));
+    }
+}
