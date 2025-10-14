@@ -1,0 +1,10 @@
+public class Lampada implements Ligavel {
+    @Override
+    public void ligar(){
+        System.out.println("Lampada esta ligando");
+    }
+    @Override
+    public void desligar(){
+        System.out.println("Lampada esta desligando");
+    }
+}
