@@ -1,0 +1,17 @@
+public class Main {
+    public static void acionar(Ligavel l){
+        l.ligar();
+        l.desligar();
+    }
+    public static void main(String[] args) {
+        Lampada l1 = new Lampada();
+        Ventilador v1 = new Ventilador();
+
+        System.out.println("Acionando a lampada: ");
+        acionar(l1);
+
+        System.out.println("\nAcionando o ventilador: ");
+        acionar(v1);
+
+    }
+}
