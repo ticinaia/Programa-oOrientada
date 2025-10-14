@@ -1,0 +1,16 @@
+public class Main {
+        public static void testar(Veiculo v){
+            v.acelerar();
+            v.frear();
+
+        }
+        public static void main(String[] args) {
+            Carro carro = new Carro();
+            Moto moto = new Moto();
+            System.out.println("Testar carro: ");
+            testar(carro);
+
+            System.out.println("Testar moto: ");
+            testar(moto);
+        }
+    }
